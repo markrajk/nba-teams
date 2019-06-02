@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nba-teams/static/css/main.41c6d7d7.chunk.css",
+    "main.js": "/nba-teams/static/js/main.f99fdc64.chunk.js",
+    "main.js.map": "/nba-teams/static/js/main.f99fdc64.chunk.js.map",
+    "runtime~main.js": "/nba-teams/static/js/runtime~main.c2476181.js",
+    "runtime~main.js.map": "/nba-teams/static/js/runtime~main.c2476181.js.map",
+    "static/js/2.991e9033.chunk.js": "/nba-teams/static/js/2.991e9033.chunk.js",
+    "static/js/2.991e9033.chunk.js.map": "/nba-teams/static/js/2.991e9033.chunk.js.map",
+    "index.html": "/nba-teams/index.html",
+    "precache-manifest.9731a56abc883ca82ef1dc0f85be0b82.js": "/nba-teams/precache-manifest.9731a56abc883ca82ef1dc0f85be0b82.js",
+    "service-worker.js": "/nba-teams/service-worker.js",
+    "static/css/main.41c6d7d7.chunk.css.map": "/nba-teams/static/css/main.41c6d7d7.chunk.css.map",
+    "static/media/logo.png": "/nba-teams/static/media/logo.e69a6812.png"
+  }
+}
