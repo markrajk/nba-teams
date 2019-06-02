@@ -1,0 +1,21 @@
+.Button {
+    padding: 5px 10px;
+    height: 40px;
+    outline: none;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border: 3px solid #fff;
+    border-radius: 3px;
+    background-color: #17408b ;
+    color: #fff;
+}
+
+.Button:hover {
+    cursor: pointer;
+}
+
+.Active{
+    background-color: #C9082A;
+}

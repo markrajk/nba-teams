@@ -1,0 +1,17 @@
+.ListItem {
+    padding: 5px;
+    margin: 5px 0;
+    background-color: #17408B;
+    border: 3px solid #fff;
+    border-radius: 3px;
+    color: #fff;
+}
+.Selected {
+    composes: ListItem;
+    background-color: #C9082A;
+}
+
+.ListItem:hover {
+    background-color: #C9082A;
+    cursor: pointer;
+}

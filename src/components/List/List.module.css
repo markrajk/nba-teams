@@ -1,0 +1,17 @@
+.List {
+    padding: 20px;
+    width: 300px;
+    height: 600px;
+    background-color: #17408b;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    border-radius: 3px;
+}
+
+.Buttons {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    border-bottom: 2px dotted #fff;
+}
