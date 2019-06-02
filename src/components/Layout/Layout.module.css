@@ -1,5 +1,7 @@
 .Layout {
+    box-sizing: border-box;
     display: flex;
+    height: 100vh;
     padding: 40px 80px;
     background-color: #f3f3f3;
 }
